@@ -5,3 +5,5 @@ Connor Carney G00365699.
 Shooter style.
 *data management in the form of xp, health, lvl,ammo.
 objective? - possiblity of final boss after finishing multiple waves of enemy.
+
+//12th Feb added the basic skeleton of the project
