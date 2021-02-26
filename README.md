@@ -7,3 +7,4 @@ Shooter style.
 objective? - possiblity of final boss after finishing multiple waves of enemy.
 
 //12th Feb added the basic skeleton of the project
+// 25th Feb skeleton code for the player and camera was completed, we will be designing the level structure next.
