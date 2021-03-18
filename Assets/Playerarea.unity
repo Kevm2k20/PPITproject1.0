@@ -1557,3 +1557,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 178c9e7be645f474c8ea34d512398504, type: 3}
+--- !u!1 &4783673521038071224 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4783673519637358975, guid: 178c9e7be645f474c8ea34d512398504,
+    type: 3}
+  m_PrefabInstance: {fileID: 4783673521038071223}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4783673521038071225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4783673521038071224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f988f8c801538134eb17933902e4f847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  experiencePoints: 0
+  health: 0
+  level: 0
+  ammo: 0
+  finalBoss: 
+  gunName: 
